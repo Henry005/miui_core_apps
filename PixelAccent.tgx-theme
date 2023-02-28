@@ -1,0 +1,20 @@
+!
+name: "PixelAccent"
+time: 1587848004
+author: "denis_deno"
+@
+parentTheme: 2
+#
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, fileAttach: #63A8FF
+avatarArchivePinned, bubbleOut_file, bubbleOut_waveformActive, chatListIcon, chatListVerify, chatSendButton, checkActive, circleButtonRegular, circleButtonTheme, controlActive, headerButton, icon, iconActive, inlineOutline, introSectionActive, playerButton, playerButtonActive, playerCoverIcon, progress, promo, seekDone, sliderActive, togglerActive, togglerPositive, waveformActive: #7AB5FF
+badge: #D30707
+badgeMuted: #D32F2F
+bubbleIn_background, bubbleOut_background, chatBackground, filling, headerBackground, headerBarCallActive, headerLightBackground, iv_preBlockBackground, iv_separator, messageSwipeBackground, notification, notificationPlayer, snackbarUpdate, themeNightBlack, unread: #000
+chatListMute, ticksRead: #F00
+circleButtonChat: #2F2F2F
+circleButtonOverlay: #9E0606
+messageSelection: #0000002A
+online: #0FFF5D
+passcode: #262626
+placeholder: #0000000C
+ticks: #FB0000
